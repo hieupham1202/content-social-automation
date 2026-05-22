@@ -7,7 +7,9 @@ Chuyển dàn ý đã duyệt thành bài viết hoàn chỉnh, sẵn sàng đă
 ## Input cần có
 - outputs/YYYY-MM-DD/04-outline-[tên-angle].md (bắt buộc)
 - inputs/brand-profile.md (bắt buộc)
-- File case study liên quan từ knowledge-base/ (nếu là Pillar 5 hoặc Business Impact)
+- File case study liên quan từ knowledge-base/ (nếu là Pillar 3, 5 hoặc Business Impact)
+- File sản phẩm liên quan từ knowledge-base/product/ (nếu là Pillar 6)
+- Bài trước trong chuỗi nếu outline có đánh dấu `[series]` hoặc `[tiếp nối]`
 
 ## Nguyên tắc viết — BẮT BUỘC tuân thủ
 
@@ -58,11 +60,30 @@ Theo cấu trúc trong outline. Sau mỗi đoạn tự hỏi:
 - Đoạn này phục vụ gì cho người đọc?
 - Có thể cắt bớt không mà vẫn giữ được ý chính?
 
+### Bước 3b: Xử lý liên kết nội dung (nếu bài thuộc series)
+Kiểm tra outline xem có đánh dấu `[series]` hoặc `[tiếp nối: tên bài]` không:
+
+- **Nếu có liên kết**: Xác định bài trước đã đặt ra vấn đề/góc nhìn gì
+  → Tìm cách tham chiếu tự nhiên trong phần mở bài hoặc chuyển đoạn
+  → Không cần quote trực tiếp — chỉ cần kết nối ý để người đọc theo chuỗi cảm thấy mạch lạc
+
+- **Nếu là Pillar 6 tiếp nối bài insight**: Không mở đầu bằng tên sản phẩm.
+  Mở từ vấn đề/góc nhìn bài trước đã đặt ra → dẫn vào sản phẩm như lời giải thực tế
+  Ví dụ: Bài trước nói về quy định eKYC mới trong BFSI
+  → Bài Pillar 6 mở bằng: "Khi quy định đó có hiệu lực, câu hỏi thực tế là hệ thống của bạn đã sẵn sàng chưa..."
+
+- **Nếu không có liên kết**: Viết độc lập, không cưỡng ép nhắc đến bài trước
+
 ### Bước 4: Viết kết và CTA
 CTA theo persona:
 - CEO/COO: Câu hỏi chiến lược hoặc quan điểm để thảo luận
 - Sales Director/Manager: Câu hỏi thực chiến hoặc mời chia sẻ kinh nghiệm
 - Không dùng: "Liên hệ ngay", "Đăng ký tư vấn miễn phí", "Inbox để biết thêm"
+
+CTA khi bài thuộc series:
+- Có thể kết bằng câu gợi mở tự nhiên cho bài tiếp theo trong chuỗi
+- Tránh kiểu: "Đón xem bài tiếp theo của chúng tôi về..."
+- Nên là: một câu hỏi hoặc nhận định mở ra vấn đề tiếp theo một cách tự nhiên
 
 ### Bước 5: Hoàn thiện
 - Đọc lại toàn bài — cắt bỏ câu thừa
@@ -75,7 +96,7 @@ Lưu tại: outputs/YYYY-MM-DD/05-post-[tên-angle-rút-gọn].md
 Format output:
 ---
 **THÔNG SỐ**
-Kênh: | Pillar: | Persona: | Độ dài: [X từ]
+Kênh: | Pillar: | Persona: | Độ dài: [X từ] | Series: [tên chuỗi / độc lập]
 
 **NỘI DUNG BÀI ĐĂNG**
 [Toàn bộ nội dung bài viết, sẵn sàng copy-paste]
@@ -97,3 +118,5 @@ Kênh: | Pillar: | Persona: | Độ dài: [X từ]
 - [ ] CTA phù hợp với persona (không push sale)
 - [ ] Độ dài đúng với kênh
 - [ ] Đã kiểm tra knowledge-base trước khi viết
+- [ ] Nếu thuộc series: liên kết với bài trước tự nhiên, không cưỡng ép
+- [ ] Nếu là Pillar 6 tiếp nối: không mở đầu bằng tên sản phẩm

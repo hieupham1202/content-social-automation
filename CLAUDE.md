@@ -16,10 +16,20 @@ Chạy tuần tự theo thứ tự. Mỗi bước đọc skill tương ứng tro
 Thông tin brand cố định: xem /inputs/brand-profile.md
 Kết quả lưu tại: /outputs/YYYY-MM-DD/
 
-## Tần suất đăng bài
+## Tần suất & Tỷ lệ content
+
+### Tần suất đăng bài
 - Facebook: 3/tuần
 - LinkedIn: 3/tuần
 - Chu kỳ lên lịch: 1 tháng
+
+### Tỷ lệ Pillar 6 — Sản phẩm & Dịch vụ
+Chỉnh 2 con số dưới đây để thay đổi tỷ lệ bài thuần sản phẩm/bán hàng:
+- Facebook: 20%   
+- LinkedIn: 20%  
+
+Phần trăm còn lại tự động phân bổ đều cho các pillar 1-5.
+Nếu để 0%: bỏ hoàn toàn Pillar 6 khỏi lịch content kỳ đó.
 
 ## Knowledge Base — Quy tắc sử dụng
 
@@ -45,6 +55,7 @@ Toàn bộ tài liệu tham khảo nằm trong /knowledge-base/:
 | Pillar 3 — Business Impact | **BẮT BUỘC scan** case-studies/ — số liệu là xương sống bài |
 | Pillar 4 — Ngành chuyên sâu | **BẮT BUỘC scan** case-studies/ theo đúng ngành (BFSI/BĐS...) |
 | Pillar 5 — GMO thực tế | **BẮT BUỘC đọc** events-log.md + case study liên quan |
+| Pillar 6 — Sản phẩm & Dịch vụ | **BẮT BUỘC đọc** file sản phẩm liên quan trong knowledge-base/product/ |
 
 Nếu scan Pillar 3/4/5 mà không tìm thấy case phù hợp: ghi "[cần case study]" vào outline, không tự bịa.
 
