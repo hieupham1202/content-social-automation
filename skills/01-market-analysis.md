@@ -40,6 +40,7 @@ Xác định top 5 chủ đề đang "nóng" với format:
 - Lý do đang được quan tâm
 - Liên quan thế nào đến CRM/AI
 - Mức độ phù hợp với audience (CEO/CCO/Sales Director): Cao / Trung bình
+- **Nguồn tham khảo**: tối thiểu 1 đường dẫn thực tế (bài báo, báo cáo, sự kiện)
 
 ### 3. Khoảng trống nội dung (Content Gap)
 Chủ đề nào audience cần biết nhưng chưa có nhiều content chất lượng?
@@ -50,10 +51,13 @@ Lưu tại: outputs/YYYY-MM-DD/01-market-analysis.md
 Format output:
 ---
 ## Top 5 chủ đề thị trường
-[bảng: chủ đề | lý do nóng | liên quan CRM/AI | độ phù hợp audience]
+[bảng: chủ đề | lý do nóng | liên quan CRM/AI | độ phù hợp audience | nguồn & link]
 
 ## 3 Content Gap tiềm năng
 [mô tả ngắn từng gap]
+
+## Nguồn tham khảo
+[danh sách toàn bộ link đã dùng, format: Tên nguồn — URL]
 
 ## Khuyến nghị cho bước tiếp theo
 [1-2 câu gợi ý hướng tập trung cho competitor audit]

@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "4456c93478ed6ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e2bb66dd25519e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd582a87b981a0db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e4436fb88b483a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eb37ee52c31f7f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca1a14849b5159b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "90a9931862f04af6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "536d056eaefd72e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c65dca04eb83f4dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab97f24adc90d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ae9b324030f73f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "outputs/2026-05-22/02-competitor-audit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02-competitor-audit"
+            }
+          },
+          {
+            "id": "5ee87b6e56286d1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "outputs/2026-05-22/02-competitor-audit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02-competitor-audit"
+            }
+          },
+          {
+            "id": "a89e08dbfc6e29bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4a274ce93f2dfcb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4a6d0f3696ba23e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "outputs/2026-05-22/02-competitor-audit.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02-competitor-audit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dd582a87b981a0db",
+  "lastOpenFiles": [
+    "push.bat",
+    "push.bat.tmp.16916.74dd5371dbd7",
+    "outputs/2026-05-22/03-pillars-angles.md",
+    "skills/03-content-pillars.md.tmp.10928.783f39f829df",
+    "CLAUDE.md.tmp.10928.b1114621cf37",
+    "skills/03-content-pillars.md.tmp.4940.746958049c94",
+    "skills/03-content-pillars.md.tmp.4940.d3a75090fd0f",
+    "skills/03-content-pillars.md.tmp.4940.08197812b633",
+    "CLAUDE.md",
+    "outputs/2026-05-22/03-pillars-angles.md.tmp.12268.9a513855fe34",
+    "outputs/2026-05-22/02-competitor-audit.md",
+    "outputs/2026-05-22/01-market-analysis.md",
+    "skills/01-market-analysis.md"
+  ]
+}

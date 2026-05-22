@@ -9,6 +9,7 @@ thị trường và đối thủ.
 - outputs/YYYY-MM-DD/01-market-analysis.md
 - outputs/YYYY-MM-DD/02-competitor-audit.md
 - inputs/brand-profile.md
+- Tần suất đăng bài: xem CLAUDE.md (đã cố định)
 
 ## Content Pillars cố định của GMO Runsystem
 
@@ -67,6 +68,22 @@ Facebook : 30% thực chiến, 25% insight ngành,
 LinkedIn : 30% thought leadership, 25% case study/data,
            20% GMO thực tế, 15% thực chiến, 10% brand
 
+### 4. Content chéo kênh (Cross-channel)
+Với mỗi angle, đánh giá xem có thể dùng cho cả 2 kênh không:
+- **Dùng được cả 2 kênh**: angle có depth đủ để viết LinkedIn dài + rút gọn thành Facebook
+- **Chỉ phù hợp 1 kênh**: angle quá ngắn/nhẹ (chỉ FB) hoặc quá kỹ thuật/dài (chỉ LI)
+
+Nguyên tắc cross-channel:
+- Không copy y nguyên — LinkedIn là bài dài có lập luận, Facebook là bản rút gọn tập trung vào 1 insight chính
+- Cùng angle nhưng hook khác nhau theo đặc thù từng kênh
+- Đánh dấu rõ trong output: `[FB + LI]` hoặc `[FB only]` / `[LI only]`
+
+### 5. Lập lịch content 1 tháng
+Dựa vào tần suất đăng bài đã có, tạo lịch cụ thể theo tuần:
+- Phân bổ đều các pillar, không dồn 1 pillar vào 1 tuần
+- Ưu tiên angle có tính thời sự vào đầu tháng
+- Angle dùng cross-channel: xếp FB và LI cách nhau 2-3 ngày, không đăng cùng ngày
+
 ## Output — lưu thành file
 Lưu tại: outputs/YYYY-MM-DD/03-content-pillars.md
 
@@ -76,10 +93,14 @@ Format output:
 [pillar | lý do chọn | cơ hội từ market/competitor analysis]
 
 ## Danh sách Angles đề xuất
-[angle | pillar | kênh | persona | hook gợi ý]
+[angle | pillar | kênh (FB/LI/FB+LI) | persona | hook gợi ý]
 
-## Content Mix gợi ý (tuần tới)
-[số bài theo từng pillar, từng kênh]
+## Lịch content 1 tháng
+[bảng: Tuần | Ngày | Kênh | Angle | Pillar | Ghi chú cross-channel]
+
+## Tổng hợp
+- Tổng số bài: [X bài FB + Y bài LI = Z bài]
+- Số angle dùng cross-channel: [N angle → tiết kiệm được M lần viết mới]
 ---
 
 ## Ghi chú

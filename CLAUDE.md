@@ -16,6 +16,11 @@ Chạy tuần tự theo thứ tự. Mỗi bước đọc skill tương ứng tro
 Thông tin brand cố định: xem /inputs/brand-profile.md
 Kết quả lưu tại: /outputs/YYYY-MM-DD/
 
+## Tần suất đăng bài
+- Facebook: 3/tuần
+- LinkedIn: 3/tuần
+- Chu kỳ lên lịch: 1 tháng
+
 ## Knowledge Base — Quy tắc sử dụng
 
 ### Vị trí
