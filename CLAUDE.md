@@ -36,12 +36,19 @@ Nếu để 0%: bỏ hoàn toàn Pillar 6 khỏi lịch content kỳ đó.
 ### Vị trí
 Toàn bộ tài liệu tham khảo nằm trong /knowledge-base/:
 - /knowledge-base/brand/          — Brand profile, brand guideline (màu sắc, font, logo)
+- /knowledge-base/competitive/    — Hồ sơ đối thủ cạnh tranh + bản đồ thị trường
 - /knowledge-base/case-studies/   — Case study thực tế theo ngành
 - /knowledge-base/product/        — Thông tin sản phẩm GMO (WOWCRM, OmniCare, AikoAI)
 - /knowledge-base/reports/        — Báo cáo thị trường, nội bộ
 - /knowledge-base/activities/     — Sự kiện, hoạt động thực tế của GMO
 
 ### Khi nào cần đọc knowledge-base
+
+**Bước 1 (Market Analysis) & Bước 2 (Competitor Audit):**
+- BẮT BUỘC đọc /knowledge-base/competitive/overview.md trước khi research
+- Đọc file đối thủ liên quan nếu cần đi sâu vào từng tên cụ thể
+- Sau khi research xong: nếu có thông tin mới hoặc thay đổi so với file hiện có,
+  ghi chú vào phần "Ghi chú cần verify" của file đối thủ tương ứng để cập nhật sau
 
 **Bước 3 (Pillar & Angle):**
 - Pillar 5: Đọc /knowledge-base/activities/events-log.md để tìm nội dung thực tế
