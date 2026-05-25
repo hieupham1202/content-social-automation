@@ -6,7 +6,7 @@ Chuyển dàn ý đã duyệt thành bài viết hoàn chỉnh, sẵn sàng đă
 
 ## Input cần có
 - outputs/YYYY-MM-DD/04-outline-[tên-angle].md (bắt buộc)
-- inputs/brand-profile.md (bắt buộc)
+- knowledge-base/brand/brand-profile.md (bắt buộc)
 - File case study liên quan từ knowledge-base/ (nếu là Pillar 3, 5 hoặc Business Impact)
 - File sản phẩm liên quan từ knowledge-base/product/ (nếu là Pillar 6)
 - Bài trước trong chuỗi nếu outline có đánh dấu `[series]` hoặc `[tiếp nối]`

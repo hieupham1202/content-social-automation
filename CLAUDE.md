@@ -13,7 +13,7 @@ Chạy tuần tự theo thứ tự. Mỗi bước đọc skill tương ứng tro
 4. Làm dàn ý              → đọc skills/04-content-outline.md
 5. Viết bài               → đọc skills/05-content-writer.md
 
-Thông tin brand cố định: xem /inputs/brand-profile.md
+Thông tin brand cố định: xem /knowledge-base/brand/brand-profile.md
 Kết quả lưu tại: /outputs/YYYY-MM-DD/
 
 ## Tần suất & Tỷ lệ content
@@ -35,8 +35,9 @@ Nếu để 0%: bỏ hoàn toàn Pillar 6 khỏi lịch content kỳ đó.
 
 ### Vị trí
 Toàn bộ tài liệu tham khảo nằm trong /knowledge-base/:
+- /knowledge-base/brand/          — Brand profile, brand guideline (màu sắc, font, logo)
 - /knowledge-base/case-studies/   — Case study thực tế theo ngành
-- /knowledge-base/product/        — Thông tin sản phẩm GMO
+- /knowledge-base/product/        — Thông tin sản phẩm GMO (WOWCRM, OmniCare, AikoAI)
 - /knowledge-base/reports/        — Báo cáo thị trường, nội bộ
 - /knowledge-base/activities/     — Sự kiện, hoạt động thực tế của GMO
 
@@ -71,7 +72,8 @@ Nếu scan Pillar 3/4/5 mà không tìm thấy case phù hợp: ghi "[cần case
 3. Thấp hơn: Case thiếu số liệu công khai → chỉ dùng tên khách hàng, không dùng con số
 
 ## Quy tắc bắt buộc
-- Luôn đọc brand-profile.md trước khi bắt đầu bất kỳ bước nào
+- Luôn đọc /knowledge-base/brand/brand-profile.md trước khi bắt đầu bất kỳ bước nào
+- Bước 5 (viết bài): đọc thêm /knowledge-base/brand/brand-guideline.md để gợi ý visual đúng màu sắc, font
 - Output mỗi bước phải lưu thành file riêng trước khi sang bước tiếp
 - Không bịa số liệu — chỉ dùng data từ knowledge-base hoặc do người dùng cung cấp
 - Nếu thiếu số liệu: ghi [cần bổ sung] vào đúng chỗ đó trong bài, không ước lượng

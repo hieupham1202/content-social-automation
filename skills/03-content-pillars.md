@@ -8,7 +8,7 @@ thị trường và đối thủ.
 ## Input cần có
 - outputs/YYYY-MM-DD/01-market-analysis.md
 - outputs/YYYY-MM-DD/02-competitor-audit.md
-- inputs/brand-profile.md
+- knowledge-base/brand/brand-profile.md
 - knowledge-base/product/ (đọc tất cả file sản phẩm có sẵn khi cần làm Pillar 6)
 - Tần suất đăng bài & tỷ lệ Pillar 6: xem CLAUDE.md (đã cố định)
 

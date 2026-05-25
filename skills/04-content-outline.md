@@ -6,7 +6,7 @@ bao gồm hook, cấu trúc nội dung, CTA, và ghi chú định dạng theo t�
 
 ## Input cần có
 - outputs/YYYY-MM-DD/03-content-pillars.md (chọn angle cụ thể cần outline)
-- inputs/brand-profile.md
+- knowledge-base/brand/brand-profile.md
 - Thông tin thực tế nếu là Pillar 5 (case study, số liệu, sự kiện)
 
 ## Các bước thực hiện
