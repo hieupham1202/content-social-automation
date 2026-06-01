@@ -1,122 +1,74 @@
 # Skill: Viết bài hoàn chỉnh
 
 ## Mục tiêu
-Chuyển dàn ý đã duyệt thành bài viết hoàn chỉnh, sẵn sàng đăng —
-đúng tone, đúng kênh, đúng persona, có số liệu thực từ knowledge base.
+Chuyển dàn ý thành bài viết hoàn chỉnh sẵn sàng đăng — đúng tone, đúng kênh, đúng persona, có số liệu thực.
 
-## Input cần có
+## Input
 - outputs/YYYY-MM-DD/04-outline-[tên-angle].md (bắt buộc)
 - knowledge-base/brand/brand-profile.md (bắt buộc)
-- File case study liên quan từ knowledge-base/ (nếu là Pillar 3, 5 hoặc Business Impact)
-- File sản phẩm liên quan từ knowledge-base/product/ (nếu là Pillar 6)
-- Bài trước trong chuỗi nếu outline có đánh dấu `[series]` hoặc `[tiếp nối]`
+- File case study liên quan (Pillar 3, 5)
+- File sản phẩm liên quan (Pillar 6)
+- Bài trước trong chuỗi nếu outline có `[series]` hoặc `[tiếp nối]`
 
-## Nguyên tắc viết — BẮT BUỘC tuân thủ
+## Nguyên tắc — BẮT BUỘC
 
-### Tone
-- Viết như người trong ngành đang chia sẻ kinh nghiệm thực chiến
-- Không giảng dạy, không sáo rỗng, không push sale lộ liễu
-- Dùng "chúng tôi" khi nói về GMO Runsystem (không dùng "công ty chúng tôi")
-- Tránh tuyệt đối: "giải pháp toàn diện", "đẳng cấp", "hàng đầu",
-  "tối ưu hóa vượt trội", hoặc bất kỳ cụm từ marketing sáo rỗng nào
+**Tone**: Viết như người trong ngành chia sẻ kinh nghiệm thực chiến. Dùng "chúng tôi" cho GMO.
+Tránh: "giải pháp toàn diện", "đẳng cấp", "hàng đầu", "tối ưu hóa vượt trội"
 
-### Số liệu
-- Chỉ dùng số liệu có trong knowledge-base hoặc do người dùng cung cấp
-- Không bịa hoặc ước lượng — nếu thiếu số liệu, ghi [cần bổ sung] vào chỗ đó
-- Khi dùng số liệu từ case study, ghi rõ nguồn ngay trong bài
-  (ví dụ: "theo kết quả triển khai tại ABBank...")
+**Số liệu**: Chỉ dùng từ knowledge-base hoặc người dùng cung cấp. Thiếu → ghi `[cần bổ sung]`.
+Dùng số liệu từ case study → ghi nguồn ngay trong bài ("theo kết quả tại ABBank...")
 
-### Độ dài & Format
+**Độ dài**:
+- Facebook: 200-350 từ | đoạn tối đa 3 dòng | tối đa 1 list ngắn | emoji 0-2
+- LinkedIn: 600-1000 từ | dòng đầu không bị cắt bởi "...xem thêm" | hashtag 3-5 cuối bài
 
-#### Facebook:
-- Tổng: 200-350 từ
-- Đoạn tối đa 3 dòng, có khoảng trắng giữa các đoạn
-- Không dùng bullet point dày đặc — tối đa 1 list ngắn nếu cần
-- Kết thúc bằng câu hỏi mở HOẶC CTA nhẹ (không "liên hệ ngay")
-- Emoji: 0-2 cái, chỉ khi tự nhiên
+## Quy trình
 
-#### LinkedIn:
-- Tổng: 600-1000 từ
-- Dòng đầu tiên phải đứng độc lập — không bị cắt bởi "...xem thêm"
-- Có thể dùng số thứ tự hoặc dấu → để liệt kê
-- Kết thúc bằng quan điểm của người viết hoặc câu hỏi thảo luận
-- Hashtag: 3-5 tags cuối bài
+**Bước 1 — Kiểm tra knowledge base**: Case study, số liệu, quote liên quan chủ đề?
 
-## Quy trình viết
+**Bước 2 — Viết hook**: Theo dạng đã chọn trong outline.
+Không mở đầu bằng: "Trong thời đại...", "Hiện nay...", "Bạn có biết rằng..."
 
-### Bước 1: Kiểm tra knowledge base
-Trước khi viết, tìm trong knowledge-base/ xem có:
-- Case study nào liên quan đến chủ đề không?
-- Số liệu nào hỗ trợ cho angle đang viết không?
-- Quote nào có thể dùng không?
+**Bước 3 — Viết thân bài**: Theo cấu trúc outline. Sau mỗi đoạn tự hỏi: đoạn này phục vụ gì cho người đọc?
 
-### Bước 2: Viết hook
-Viết hook theo dạng đã chọn trong outline.
-Yêu cầu: đọc dòng đầu xong phải muốn đọc tiếp — không được mở đầu bằng
-"Trong thời đại...", "Hiện nay...", "Bạn có biết rằng..."
+**Bước 3b — Xử lý liên kết series** (nếu outline có `[series]`/`[tiếp nối]`):
+- Tham chiếu tự nhiên đến góc nhìn bài trước trong phần mở hoặc chuyển đoạn
+- Pillar 6 tiếp nối insight: mở từ vấn đề bài trước → dẫn vào sản phẩm như lời giải, không mở bằng tên sản phẩm
+- Không có liên kết → viết độc lập, không cưỡng ép
 
-### Bước 3: Viết thân bài
-Theo cấu trúc trong outline. Sau mỗi đoạn tự hỏi:
-- Đoạn này phục vụ gì cho người đọc?
-- Có thể cắt bớt không mà vẫn giữ được ý chính?
-
-### Bước 3b: Xử lý liên kết nội dung (nếu bài thuộc series)
-Kiểm tra outline xem có đánh dấu `[series]` hoặc `[tiếp nối: tên bài]` không:
-
-- **Nếu có liên kết**: Xác định bài trước đã đặt ra vấn đề/góc nhìn gì
-  → Tìm cách tham chiếu tự nhiên trong phần mở bài hoặc chuyển đoạn
-  → Không cần quote trực tiếp — chỉ cần kết nối ý để người đọc theo chuỗi cảm thấy mạch lạc
-
-- **Nếu là Pillar 6 tiếp nối bài insight**: Không mở đầu bằng tên sản phẩm.
-  Mở từ vấn đề/góc nhìn bài trước đã đặt ra → dẫn vào sản phẩm như lời giải thực tế
-  Ví dụ: Bài trước nói về quy định eKYC mới trong BFSI
-  → Bài Pillar 6 mở bằng: "Khi quy định đó có hiệu lực, câu hỏi thực tế là hệ thống của bạn đã sẵn sàng chưa..."
-
-- **Nếu không có liên kết**: Viết độc lập, không cưỡng ép nhắc đến bài trước
-
-### Bước 4: Viết kết và CTA
-CTA theo persona:
-- CEO/COO: Câu hỏi chiến lược hoặc quan điểm để thảo luận
-- Sales Director/Manager: Câu hỏi thực chiến hoặc mời chia sẻ kinh nghiệm
+**Bước 4 — Kết & CTA**:
+- CEO/COO: câu hỏi chiến lược hoặc quan điểm thảo luận
+- Sales Director/Manager: câu hỏi thực chiến hoặc mời chia sẻ kinh nghiệm
 - Không dùng: "Liên hệ ngay", "Đăng ký tư vấn miễn phí", "Inbox để biết thêm"
+- Bài thuộc series: có thể kết bằng câu mở tự nhiên cho bài tiếp theo
 
-CTA khi bài thuộc series:
-- Có thể kết bằng câu gợi mở tự nhiên cho bài tiếp theo trong chuỗi
-- Tránh kiểu: "Đón xem bài tiếp theo của chúng tôi về..."
-- Nên là: một câu hỏi hoặc nhận định mở ra vấn đề tiếp theo một cách tự nhiên
+**Bước 5 — Hoàn thiện**: Đọc lại, cắt câu thừa, kiểm tra brochure tone, thêm hashtag và gợi ý visual.
 
-### Bước 5: Hoàn thiện
-- Đọc lại toàn bài — cắt bỏ câu thừa
-- Kiểm tra: có chỗ nào nghe như brochure không? → Sửa lại
-- Thêm hashtag và ghi chú visual
+## Output — lưu tại: outputs/YYYY-MM-DD/05-post-[tên-angle-rút-gọn].md
 
-## Output — lưu thành file
-Lưu tại: outputs/YYYY-MM-DD/05-post-[tên-angle-rút-gọn].md
-
-Format output:
----
+```
 **THÔNG SỐ**
-Kênh: | Pillar: | Persona: | Độ dài: [X từ] | Series: [tên chuỗi / độc lập]
+Kênh: | Pillar: | Persona: | Độ dài: [X từ] | Series: [tên / độc lập]
 
 **NỘI DUNG BÀI ĐĂNG**
-[Toàn bộ nội dung bài viết, sẵn sàng copy-paste]
+[Toàn bộ nội dung, sẵn sàng copy-paste]
 
 **HASHTAG**
-[Danh sách hashtag]
+[Danh sách]
 
 **GỢI Ý VISUAL**
-[Mô tả ảnh/video nên dùng kèm]
+[Mô tả ảnh/video]
 
 **GHI CHÚ**
-[Thông tin cần verify trước khi đăng, nếu có]
----
+[Thông tin cần verify trước khi đăng]
+```
 
-## Checklist trước khi xuất file
+## Checklist
 - [ ] Hook không bắt đầu bằng "Trong thời đại / Hiện nay / Bạn có biết"
 - [ ] Không có cụm từ marketing sáo rỗng
-- [ ] Số liệu đều có nguồn hoặc ghi [cần bổ sung]
-- [ ] CTA phù hợp với persona (không push sale)
-- [ ] Độ dài đúng với kênh
-- [ ] Đã kiểm tra knowledge-base trước khi viết
-- [ ] Nếu thuộc series: liên kết với bài trước tự nhiên, không cưỡng ép
-- [ ] Nếu là Pillar 6 tiếp nối: không mở đầu bằng tên sản phẩm
+- [ ] Số liệu có nguồn hoặc ghi [cần bổ sung]
+- [ ] CTA phù hợp persona, không push sale
+- [ ] Độ dài đúng kênh
+- [ ] Đã kiểm tra knowledge-base
+- [ ] Series: liên kết tự nhiên, không cưỡng ép
+- [ ] Pillar 6 tiếp nối: không mở đầu bằng tên sản phẩm

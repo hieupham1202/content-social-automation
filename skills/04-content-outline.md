@@ -1,84 +1,57 @@
 # Skill: Làm dàn ý bài viết
 
 ## Mục tiêu
-Chuyển hóa angle đã chọn thành dàn ý chi tiết, sẵn sàng để viết bài —
-bao gồm hook, cấu trúc nội dung, CTA, và ghi chú định dạng theo từng kênh.
+Chuyển angle đã chọn thành dàn ý chi tiết sẵn sàng để viết — bao gồm hook, cấu trúc, CTA, ghi chú format.
 
-## Input cần có
-- outputs/YYYY-MM-DD/03-content-pillars.md (chọn angle cụ thể cần outline)
+## Input
+- outputs/YYYY-MM-DD/03-content-pillars.md (chọn angle cụ thể)
 - knowledge-base/brand/brand-profile.md
 - Thông tin thực tế nếu là Pillar 5 (case study, số liệu, sự kiện)
 
-## Các bước thực hiện
+## Thực hiện
 
-### 1. Xác định thông số bài viết
-Trước khi làm dàn ý, xác định rõ:
-- Kênh: Facebook hay LinkedIn?
-- Format: Text thuần / Carousel / List post / Story / Poll?
-- Persona mục tiêu: CEO / COO / CCO / Sales Director / Sales Manager?
-- Pillar: thuộc pillar nào trong 5 pillars?
-- Mục tiêu bài: Awareness / Engagement / Lead / Trust?
+### 1. Xác định thông số
+Kênh (FB/LI) | Format (text/carousel/list/poll) | Persona | Pillar | Mục tiêu (awareness/engagement/lead/trust)
 
-### 2. Xây dựng Hook
-Hook là 1-2 dòng đầu tiên — quyết định người đọc có dừng lại không.
-Tạo 3 phiên bản hook theo các dạng:
-- **Pain hook:** Chạm vào nỗi đau/vấn đề đang gặp
-- **Insight hook:** Đưa ra góc nhìn bất ngờ hoặc ngược chiều
-- **Data hook:** Mở đầu bằng con số gây chú ý
+### 2. Hook — viết 3 phiên bản, chọn 1
+- **Pain hook**: chạm vào nỗi đau đang gặp
+- **Insight hook**: góc nhìn bất ngờ hoặc ngược chiều
+- **Data hook**: mở đầu bằng con số gây chú ý
 
-Chọn 1 hook phù hợp nhất với persona và kênh, ghi rõ lý do chọn.
+Ghi rõ lý do chọn hook nào.
 
 ### 3. Cấu trúc nội dung
 
-#### Với Facebook (tối đa 300-400 từ):
+**Facebook** (300-400 từ):
 ```
-[Hook — 1-2 dòng]
-[Setup — 2-3 dòng: bối cảnh, tại sao vấn đề này quan trọng]
-[Nội dung chính — 3-5 điểm hoặc đoạn ngắn]
-[Kết — 1-2 dòng: takeaway hoặc quan điểm]
-[CTA — 1 dòng]
+[Hook] → [Setup 2-3 dòng] → [Nội dung chính 3-5 điểm] → [Kết 1-2 dòng] → [CTA]
 ```
 
-#### Với LinkedIn (tối đa 800-1200 từ hoặc dạng bullet ngắn):
+**LinkedIn** (800-1200 từ):
 ```
-[Hook — 1-2 dòng, thường là câu hỏi hoặc statement mạnh]
-[Context — 3-5 dòng: thiết lập vấn đề cho C-level audience]
-[Nội dung chính — 3-7 điểm có đánh số hoặc dấu →]
-[Ví dụ thực tế / Case study ngắn nếu có]
-[Kết luận — quan điểm của người viết]
-[CTA — nhẹ, không push sale]
+[Hook] → [Context 3-5 dòng] → [Nội dung chính 3-7 điểm có số/→] → [Case study ngắn] → [Kết luận quan điểm] → [CTA nhẹ]
 ```
 
-### 4. Ghi chú định dạng
-- Hashtag: 3-5 tags cho Facebook, 3-7 tags cho LinkedIn
-- Tag người/tổ chức liên quan nếu phù hợp
-- Gợi ý visual: ảnh, video, infographic đi kèm
-- Thời điểm đăng tốt nhất cho persona này
+### 4. Ghi chú format
+Hashtag (FB: 3-5, LI: 3-7) | Visual gợi ý | Thời điểm đăng tốt nhất
 
-## Output — lưu thành file
-Lưu tại: outputs/YYYY-MM-DD/04-outline-[tên-angle-rút-gọn].md
+## Output — lưu tại: outputs/YYYY-MM-DD/04-outline-[tên-angle-rút-gọn].md
 
-Format output:
----
-## Thông số bài viết
+```
+## Thông số
 Kênh: | Format: | Persona: | Pillar: | Mục tiêu:
 
 ## Hook được chọn
-[hook] — Lý do: [giải thích ngắn]
+[hook] — Lý do: [ngắn]
 
 ## Dàn ý chi tiết
 [cấu trúc theo kênh]
 
-## Ghi chú định dạng
-Hashtag: | Visual: | Thời điểm đăng:
+## Ghi chú format
+Hashtag: | Visual: | Thời điểm:
 
-## Thông tin cần bổ sung trước khi viết
-[liệt kê những gì còn thiếu: số liệu, quote, ảnh thực tế...]
----
+## Cần bổ sung trước khi viết
+[số liệu, quote, ảnh còn thiếu]
+```
 
-## Ghi chú
-- Một file outline = một bài viết, không gộp nhiều bài vào một file
-- Nếu là Pillar 5, phần "Thông tin cần bổ sung" phải điền đầy đủ trước
-  khi chuyển sang bước viết bài
-- Hook phải viết được bằng tiếng Việt tự nhiên, không dịch máy
-- CTA không được là "liên hệ ngay" hoặc "mua ngay" với C-level audience
+> 1 file = 1 bài. Pillar 5: phải điền đầy đủ "Cần bổ sung" trước khi sang bước viết. CTA không được là "liên hệ ngay" với C-level.

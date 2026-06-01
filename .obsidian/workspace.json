@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "skills/03-content-pillars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "03-content-pillars"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "dd582a87b981a0db",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "knowledge-base/product/omnicare.md",
     "knowledge-base/product/omnicare.md.tmp.9352.13e7c5544377",
     "knowledge-base/product/features.md",
@@ -195,7 +196,6 @@
     "knowledge-base/product/updates-log.md",
     "knowledge-base/product/_template.md",
     "knowledge-base/product/omnicare.md.tmp.17536.b6442516848e",
-    "CLAUDE.md",
     "outputs/2026-05-22/03-pillars-angles.md",
     "skills/05-content-writer.md.tmp.18048.f9175084217d",
     "skills/05-content-writer.md.tmp.18048.260ee61697cf",
