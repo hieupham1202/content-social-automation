@@ -32,6 +32,11 @@ Với mỗi chủ đề: tên | lý do nóng | liên quan CRM/AI | độ phù h�
 ### 5. Content Gap
 3 chủ đề audience cần biết nhưng chưa có nhiều content chất lượng.
 
+### 6. Tổng hợp insight & phân khúc ưu tiên
+- **Insight chính**: 2-3 điểm thị trường đang thực sự quan tâm (không phải điều mình muốn viết)
+- **Phân khúc ưu tiên kỳ này**: nhóm audience nào đang có nhu cầu cấp nhất? Tại sao?
+- **Cơ hội nội dung**: góc độ cụ thể có thể khai thác ngay
+
 ## Output — lưu tại: outputs/YYYY-MM-DD/01-market-analysis.md
 
 ```
@@ -41,6 +46,11 @@ Với mỗi chủ đề: tên | lý do nóng | liên quan CRM/AI | độ phù h�
 ## 3 Content Gap tiềm năng
 [mô tả ngắn từng gap]
 
+## Insight chính & Phân khúc ưu tiên
+- Insight 1/2/3: [điều thị trường thực sự quan tâm, có dẫn chứng]
+- Phân khúc ưu tiên: [audience nào + lý do]
+- Cơ hội nội dung: [góc cụ thể có thể khai thác ngay]
+
 ## Nguồn tham khảo
 [Tên nguồn — URL]
 
@@ -49,3 +59,4 @@ Với mỗi chủ đề: tên | lý do nóng | liên quan CRM/AI | độ phù h�
 ```
 
 > Ưu tiên 30 ngày gần nhất. Không tìm được data thực → ghi "cần verify". Tập trung VN, tham chiếu SEA/toàn cầu nếu liên quan.
+> **Tránh**: liệt kê data mà không rút insight; insight quá chung như "khách hàng cần giải pháp tốt hơn"; nhầm lẫn "điều mình muốn viết" với "điều thị trường thực sự quan tâm".

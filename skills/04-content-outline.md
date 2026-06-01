@@ -11,7 +11,7 @@ Chuyển angle đã chọn thành dàn ý chi tiết sẵn sàng để viết �
 ## Thực hiện
 
 ### 1. Xác định thông số
-Kênh (FB/LI) | Format (text/carousel/list/poll) | Persona | Pillar | Mục tiêu (awareness/engagement/lead/trust)
+Kênh (FB/LI) | Format (text/carousel/list/poll) | Persona | Pillar | Funnel stage | Intent (educate/persuade/convert) | Hướng (inbound: kéo người đọc đến / outbound: push thông điệp chủ động)
 
 ### 2. Hook — viết 3 phiên bản, chọn 1
 - **Pain hook**: chạm vào nỗi đau đang gặp
@@ -39,7 +39,7 @@ Hashtag (FB: 3-5, LI: 3-7) | Visual gợi ý | Thời điểm đăng tốt nhấ
 
 ```
 ## Thông số
-Kênh: | Format: | Persona: | Pillar: | Mục tiêu:
+Kênh: | Format: | Persona: | Pillar: | Funnel stage: | Intent: | Hướng (inbound/outbound):
 
 ## Hook được chọn
 [hook] — Lý do: [ngắn]
@@ -54,4 +54,5 @@ Hashtag: | Visual: | Thời điểm:
 [số liệu, quote, ảnh còn thiếu]
 ```
 
-> 1 file = 1 bài. Pillar 5: phải điền đầy đủ "Cần bổ sung" trước khi sang bước viết. CTA không được là "liên hệ ngay" với C-level.
+> 1 file = 1 bài. Dàn ý phải có luận điểm cụ thể cho mỗi phần — không chỉ là tiêu đề. Pillar 5: phải điền đầy đủ "Cần bổ sung" trước khi sang bước viết. CTA không được là "liên hệ ngay" với C-level.
+> **Tránh**: outline chỉ có tiêu đề không có luận điểm; nhồi quá nhiều ý; không xác định intent khiến bài lệch mục tiêu.

@@ -78,6 +78,13 @@ Nếu scan Pillar 3/4/5 mà không tìm thấy case phù hợp: ghi "[cần case
 2. Trung bình: Case có số liệu cụ thể, không có quote (Miza, BaAn, Apec Securities)
 3. Thấp hơn: Case thiếu số liệu công khai → chỉ dùng tên khách hàng, không dùng con số
 
+## Tiêu chuẩn chất lượng xuyên suốt pipeline
+Mỗi bước output phải đạt 4 tiêu chí sau:
+- **Clarity**: bước này tạo ra decision gì cho bước tiếp theo? Phải trả lời được câu hỏi đó.
+- **Specificity**: càng cụ thể càng tốt — tránh mô tả mơ hồ, tránh insight chung chung
+- **Actionability**: người chạy bước tiếp theo dùng được ngay, không cần giải thích thêm
+- **Consistency**: logic nhất quán từ market analysis đến draft cuối — angle, persona, key message không được lệch nhau giữa các bước
+
 ## Quy tắc bắt buộc
 - Luôn đọc /knowledge-base/brand/brand-profile.md trước khi bắt đầu bất kỳ bước nào
 - Bước 5 (viết bài): đọc thêm /knowledge-base/brand/brand-guideline.md để gợi ý visual đúng màu sắc, font

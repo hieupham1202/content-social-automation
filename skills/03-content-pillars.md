@@ -12,14 +12,14 @@ Xây dựng content pillars, angles và lịch content 1 tháng dựa trên kế
 
 ## Content Pillars cố định
 
-| # | Pillar | Chủ đề | Audience | Mục tiêu |
-|---|--------|---------|----------|-----------|
-| 1 | AI & Tương lai Sales | AI thay đổi cách đội sales vận hành | CEO, CCO | Thought leadership |
-| 2 | Thực chiến CRM | Triển khai, vận hành CRM hiệu quả | Sales Director, Manager | Credibility, lead gen |
-| 3 | Business Impact | Con số, ROI từ CRM/AI | CEO, COO | Conversion, trust |
-| 4 | Ngành chuyên sâu | Góc nhìn riêng cho BFSI, BĐS | C-level & Sales Director theo ngành | Niche authority |
-| 5 | GMO thực tế | Case study, sự kiện, đội ngũ thực tế | Tất cả — đặc biệt Sales Director đang eval | Trust, social proof |
-| 6 | Sản phẩm & Dịch vụ | Giới thiệu sản phẩm gắn với pain point | Sales Director, Manager | Product awareness, lead gen |
+| # | Pillar | Chủ đề | Audience | Funnel Stage | Mục tiêu | Key Message |
+|---|--------|---------|----------|--------------|-----------|-------------|
+| 1 | AI & Tương lai Sales | AI thay đổi cách đội sales vận hành | CEO, CCO | Awareness | Thought leadership | AI không thay người — AI giúp người bán tốt hơn |
+| 2 | Thực chiến CRM | Triển khai, vận hành CRM hiệu quả | Sales Director, Manager | Consideration | Credibility, lead gen | CRM hiệu quả = quy trình đúng + công cụ phù hợp |
+| 3 | Business Impact | Con số, ROI từ CRM/AI | CEO, COO | Decision | Conversion, trust | Kết quả thực tế đo được — không phải hứa hẹn |
+| 4 | Ngành chuyên sâu | Góc nhìn riêng cho BFSI, BĐS | C-level & Sales Director theo ngành | Consideration | Niche authority | Bài toán ngành bạn cần giải pháp hiểu ngành bạn |
+| 5 | GMO thực tế | Case study, sự kiện, đội ngũ thực tế | Tất cả — đặc biệt Sales Director đang eval | Decision | Trust, social proof | Chúng tôi đã làm được — đây là bằng chứng |
+| 6 | Sản phẩm & Dịch vụ | Giới thiệu sản phẩm gắn với pain point | Sales Director, Manager | Decision | Product awareness, lead gen | Đây là lời giải cụ thể cho vấn đề bạn vừa nhận ra |
 
 **Pillar 5** — dạng content: case study, behind the scenes, milestone, góc nhìn chuyên gia, sự kiện thực tế
 **Pillar 6** — dạng content: tính năng nổi bật, so sánh gói/use case, demo, FAQ, thông báo ra mắt
@@ -29,6 +29,7 @@ Xây dựng content pillars, angles và lịch content 1 tháng dựa trên kế
 
 ### 1. Đánh giá pillar theo context
 Pillar nào cơ hội lớn nhất kỳ này? Đối thủ đang bỏ trống gì? Chủ đề thời sự gắn được vào đâu?
+Funnel stage nào đang thiếu content so với tháng trước?
 
 ### 2. Đề xuất Angles
 3-5 angle/pillar. Mỗi angle phải trả lời: "Tại sao audience đọc bài này ngay hôm nay?"

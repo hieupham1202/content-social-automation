@@ -43,6 +43,8 @@ Không mở đầu bằng: "Trong thời đại...", "Hiện nay...", "Bạn có
 - Bài thuộc series: có thể kết bằng câu mở tự nhiên cho bài tiếp theo
 
 **Bước 5 — Hoàn thiện**: Đọc lại, cắt câu thừa, kiểm tra brochure tone, thêm hashtag và gợi ý visual.
+- Kiểm tra **transition**: các đoạn có chuyển mạch tự nhiên không, hay bị đứt gãy ý?
+- Kiểm tra **key message consistency**: thông điệp cốt lõi của pillar có xuyên suốt từ hook đến CTA không? (xem key message trong bảng pillars skill 03)
 
 ## Output — lưu tại: outputs/YYYY-MM-DD/05-post-[tên-angle-rút-gọn].md
 
@@ -70,5 +72,8 @@ Kênh: | Pillar: | Persona: | Độ dài: [X từ] | Series: [tên / độc lậ
 - [ ] CTA phù hợp persona, không push sale
 - [ ] Độ dài đúng kênh
 - [ ] Đã kiểm tra knowledge-base
+- [ ] Transition giữa các đoạn tự nhiên, không bị đứt gãy
+- [ ] Key message xuyên suốt từ hook đến CTA
+- [ ] Dùng ngôn ngữ của khách hàng, có ví dụ/chứng cứ cụ thể
 - [ ] Series: liên kết tự nhiên, không cưỡng ép
 - [ ] Pillar 6 tiếp nối: không mở đầu bằng tên sản phẩm
