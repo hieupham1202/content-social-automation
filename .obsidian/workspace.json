@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/03-content-pillars.md",
+                "file": "outputs/2026-05-22/03-pillars-angles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-content-pillars"
+              "title": "03-pillars-angles"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "dd582a87b981a0db",
   "lastOpenFiles": [
+    "outputs/2026-05-22/01-market-analysis.md",
+    "skills/03-content-pillars.md",
     "CLAUDE.md",
     "knowledge-base/product/omnicare.md",
     "knowledge-base/product/omnicare.md.tmp.9352.13e7c5544377",
@@ -204,7 +206,6 @@
     "skills/03-content-pillars.md.tmp.18048.4a753e4e3a2a",
     "CLAUDE.md.tmp.16288.198bbb5045f9",
     "outputs/2026-05-22/02-competitor-audit.md",
-    "outputs/2026-05-22/01-market-analysis.md",
     "skills/01-market-analysis.md"
   ]
 }
